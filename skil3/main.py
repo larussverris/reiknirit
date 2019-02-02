@@ -1,5 +1,6 @@
 import itertools
 
+#skil3 Lárus Arnar
 #allar mögulegir strengir af lengd n úr enska stafrófinu
 
 def stafrof(lengd):
