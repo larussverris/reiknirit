@@ -1,2 +1,2 @@
-# reiknirit-larus
+# Reiknirit - Lárus Arnar
 Reiknirit - Lárus Arnar
