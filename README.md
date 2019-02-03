@@ -1,2 +1,1 @@
-# Reiknirit - Lárus Arnar
-Reiknirit - Lárus Arnar
+#  FORR3RR05DU Reiknirit - Lárus Arnar
