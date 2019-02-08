@@ -6,6 +6,7 @@
 
 
 # Skilaverkefni 3 í reikniritum
+# Ég og Jónas unnum saman.
 
 ### 1. 
 
