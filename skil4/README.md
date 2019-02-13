@@ -6,7 +6,6 @@
 
 
 # Skilaverkefni 4 í reikniritum
-
 ### 1. (3/15) Skoðaðu myndina gaumgæfilega hér fyrir neðan og svaraðu spurningunum:
 #### a. Hvað gerir forritið hér fyrir neðan?
 ```
