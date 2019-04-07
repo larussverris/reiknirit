@@ -170,6 +170,8 @@ def triangle(listi):
 print("Stærsta summa þríhyrningsins er",triangle(lines))
 
 
+# 3. Binary Search Tree
+
 class Node:
     def __init__(self,v):
         self.value = v
@@ -192,7 +194,6 @@ class Node:
                 self.right = Node(d)
                 return True
 
-# 3. Binary Search Tree
 class Tree:
     def __init__(self):
         self.root = None
